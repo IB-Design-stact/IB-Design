@@ -1,0 +1,43 @@
+portfolio-design/
+│
+├── README.md
+│
+├── assets/
+│   ├── images/
+│   │   ├── previews/
+│   │   └── full/
+│   ├── mockups/
+│   └── icons/
+│
+├── svg/
+│   ├── logos/
+│   ├── illustrations/
+│   └── pictogrammes/
+│
+├── projects/
+│   ├── identite-visuelle/
+│   │   ├── brand-board/
+│   │   ├── logo/
+│   │   ├── charte-graphique/
+│   │   └── README.md
+│   │
+│   ├── affiches/
+│   │   ├── culture/
+│   │   ├── evenement/
+│   │   └── README.md
+│   │
+│   └── social-media/
+│       ├── instagram/
+│       ├── facebook/
+│       └── README.md
+│
+├── exports/
+│   ├── png/
+│   ├── jpg/
+│   ├── pdf/
+│   └── web/
+│
+└── docs/
+    ├── guidelines.md
+    └── workflow.md
+
