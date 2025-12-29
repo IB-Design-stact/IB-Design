@@ -1,0 +1,22 @@
+culture-mali/
+│
+├── README.md          ← présentation du projet
+│
+├── logo/
+│   ├── logo_culture-mali_2025_v1.svg
+│   ├── logo_culture-mali_2025_v2.svg
+│   └── logo_culture-mali_2025_final.svg
+│
+├── brand-board/
+│   ├── couleurs.png
+│   ├── typographies.png
+│   └── moodboard.jpg
+│
+├── mockups/
+│   ├── carte-visite.jpg
+│   └── affiche.jpg
+│
+└── exports/
+    ├── png/
+    ├── pdf/
+    └── web/
